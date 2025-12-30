@@ -1,0 +1,5 @@
+{
+  "name": "Auth Academy",
+  "description": "An interactive educational platform explaining the concepts of Authentication vs. Authorization using real-world analogies and simulations.",
+  "requestFramePermissions": []
+}
